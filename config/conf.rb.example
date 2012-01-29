@@ -1,4 +1,4 @@
-{
+CONFIG = {
     :target_process => {
         :uname => '',
         :pwd => '',

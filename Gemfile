@@ -1,4 +1,7 @@
 source :rubygems
 
 gem 'httparty'
-gem 'pivotal-tracker'
+gem 'hashie'
+gem 'json'
+gem 'coderay'
+gem 'lesstile'
